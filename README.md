@@ -11,6 +11,10 @@ Mapty is a web application that allows users to track their running and cycling 
 ## Getting Started
 To use Mapty, simply visit the website and start recording your workouts. You can switch between running and cycling modes, and start and stop your workout with a single click.
 
+## Demo
+https://user-images.githubusercontent.com/72330077/228651838-a5ddcf17-cfa8-4e87-be7e-f6bfd9b78840.mp4
+
+
 ## Technologies Used
 Mapty is built using HTML, CSS, and JavaScript. It uses the Leaflet API for mapping, as well as various libraries for managing data and UI components.
 
